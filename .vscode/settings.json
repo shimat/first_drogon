@@ -1,0 +1,8 @@
+{
+    "C_Cpp.clang_format_style": "Emulated Visual Studio",
+    "C_Cpp.default.cppStandard": "c++17",
+    "editor.defaultFormatter": "ms-vscode.cpptools",
+    "editor.formatOnSave": true,
+    "editor.formatOnPaste": true,
+    "C_Cpp.default.configurationProvider": "ms-vscode.cmake-tools"
+}
